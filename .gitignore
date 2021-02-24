@@ -1,0 +1,11 @@
+node_modules
+*.class
+**/*.class
+**/.DS_Store
+**/Thumbs.db
+**/out/
+**/.idea
+**/*.iml
+**/target/
+
+
